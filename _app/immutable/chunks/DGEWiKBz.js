@@ -1,0 +1,3 @@
+import{I as e,T as t,d as n,f as r,i,m as a,x as o}from"./KUArmAmq.js";import"./D1hYfEew.js";var s=a(`<button class="border-text flex w-full transform cursor-pointer items-center
+  justify-center rounded-sm border-t-0 border-r-0 border-b-0 p-2 px-2 py-3 text-sm leading-6 font-bold text-white capitalize
+  duration-100 sm:px-8"> </button>`);function c(a,c){let l=i(c,`label`,3,`Default Text`);i(c,`link`,3,``);var u=s(),d=t(u,!0);e(u),o(()=>n(d,l())),r(a,u)}export{c as t};
